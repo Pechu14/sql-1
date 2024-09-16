@@ -68,4 +68,3 @@ INSERT INTO usuarios_lenguajes (nombre, apellido, email, edad, lenguaje) VALUES
 ('Hector', 'Ortega', 'hector.ortega@example.com', 30, 'Perl'),
 ('Raquel', 'Serrano', 'raquel.serrano@example.com', 32, 'Shell'),
 ('Alberto', 'Reyes', 'alberto.reyes@example.com', 28, 'VB.NET');
-```
